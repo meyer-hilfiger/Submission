@@ -1,0 +1,4 @@
+File comparing the experimental Fourier coefficients distribution in corrected RLPN to the Fourier coefficients distribution under Poisson Model (Assumption 5.5 in the paper) or under the LPN model (Problem 1.2).
+Files are in the format : experiment_vs_poisson_w_s_k_n_u_t_NMAX.pdf
+
+Where the number N of LPN samples in each iteration is the biggest integer N such that N <= NMAX and such that there exists at least N parity-checks of weight w.
